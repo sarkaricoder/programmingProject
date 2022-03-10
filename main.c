@@ -15,7 +15,7 @@ int Diff (ti x, ti y)
   if(sec1>sec2)
   {
      diff=sec1-sec2;
-  }
+  }}
   else{
      diff=sec2-sec1;
   }
